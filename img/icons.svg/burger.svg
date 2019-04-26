@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="21" viewBox="0 0 32 21">
+    <defs>
+        <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 128 85">
+            <image width="128" height="85" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAABVCAYAAACBzexXAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEwAACxMBAJqcGAAAALxJREFUeJzt3LFtA0EQBME5QsHQYLoElK0UxBtndFUEY7S7e7b9jazX7QHcJYA4AcQJIE4AcQKIE0CcAOIEECeAOAHECSBOAHFn2/v2CAAAAAAAAAAAAACeOdt+b4/gnjM/gtLcBcQJIE4AcQKIE0CcAOIEECeAOAHECSBOAHECiPvZ9r09AgAAAAAAAAAAAIBnzrbP7RHc40VMnLuAOAHECSBOAHECiBNAnADiBBAngDgBxAkgTgBxAoj7B6DuBNUQoEX9AAAAAElFTkSuQmCC"/>
+        </pattern>
+    </defs>
+    <rect id="iconfinder_menu_326672" width="32" height="21" fill="url(#pattern)"/>
+</svg>

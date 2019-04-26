@@ -1,0 +1,48 @@
+.nav{
+  background-color: #fff;
+  border-bottom: 1px solid #707070;
+  &__content{
+    margin-left: -15px;
+    margin-right: -15px;
+    display: flex;
+    height: 80px;
+    justify-content: space-between;
+  }
+  &__aside{
+    position: fixed;
+    max-width: 380px;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    transform: translateX(100%);
+  }
+  &__brand{
+    border-right: 1px solid #707070;
+    padding-left: 39px;
+    padding-right: 39px;
+    display: inline-flex;
+    align-items: center;
+  }
+  &__controller{
+    width: 92px;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    border-left: 1px solid #707070;
+    &--form{
+      margin-left: auto;
+    }
+    i[data-job="close"]{
+      display: none;
+    }
+    &.show{
+      i[data-job="open"]{
+        display: none;
+      }
+      i[data-job="close"]{
+        display: block;
+      }
+    }
+  }
+}

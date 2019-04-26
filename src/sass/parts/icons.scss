@@ -1,0 +1,16 @@
+.icon{
+  display: inline-block;
+  width: 91px;
+  height: 82px;
+  background-repeat: no-repeat;
+  background-position: center;
+  &--search{
+    background-image: url(../img/icons.svg/search.svg);
+  }
+  &--close{
+    background-image: url(../img/icons.svg/close.svg);
+  }
+  &--burger{
+    background-image: url(../img/icons.svg/burger.svg);
+  }
+}

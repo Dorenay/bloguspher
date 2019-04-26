@@ -1,0 +1,30 @@
+{
+  "name": "all_for_house",
+  "version": "1.0.0",
+  "description": "all_for_house -- internet magazine by compas.Agency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "compas.Agency",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^4.0.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify-es": "^1.0.4",
+    "node-sass": "^4.11.0"
+  },
+  "dependencies": {
+    "4": "0.0.0",
+    "bootstrap": "^4.3.1",
+    "bootstrap-sass-grid": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.5"
+  }
+}
